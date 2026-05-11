@@ -1,7 +1,6 @@
 aiogram
 sqlalchemy
 asyncpg
-python-dotenv
 httpx
 shodan
 python-whois
